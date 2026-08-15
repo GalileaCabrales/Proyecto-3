@@ -44,4 +44,4 @@ El análisis se centró en el año 2024, con el fin de identificar ciudades prio
 ---
 
 ## 🔗 Entregables
-* [📂 Ver Notebook / Dataset / Dashboard](https://github.com/GalileaCabrales/Proyecto-2/blob/main/Proyecto%202_%20Resumen%20Ejecutivo%20de%20Ventas%20Walmart%20%20.xlsx)
+* [📂 Ver Notebook / Dataset / Dashboard](https://github.com/GalileaCabrales/Proyecto-3/blob/main/S5%20ladb_mobility_economy_project_student.ipynb)
